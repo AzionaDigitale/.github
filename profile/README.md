@@ -11,6 +11,6 @@ Our main services are: <br>
 - Technology adoption strategy<br>
 - Process optimization<br>
 - Product design<br>
-- Custom development<br><br>
+- Custom development<br>
 
 Do a deep dive here: https://www.azionadigitale.com/en/<br><br>
